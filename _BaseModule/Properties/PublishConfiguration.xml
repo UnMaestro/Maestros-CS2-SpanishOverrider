@@ -1,9 +1,9 @@
 <Publish>
-  <ModId Value="" />
+  <ModId Value="127510" />
   <DisplayName Value="Spanish Vanilla Sign Overrider (WE-Module)" />
   <ShortDescription Value="A WriteEverywhere-Module that replaces Vanilla Signs with Spanish ones." />
   <LongDescription># Spanish Vanilla Theme Overrider 
-Hallo and Hello. This is a Vanilla Theme Overrider that turns Vanilla Signs, Roadmarkings Decals to Spanish ones.
+Hallo and Hello. This is a Vanilla Theme Overrider that turns Vanilla **EU** and **NA** Signs, Roadmarkings and Decals to Spanish ones.
 This Overrider uses the Traffic Type Spain Font. Can be found [here](https://www.onlinewebfonts.com/download/f820971323ed634d5ef50513e34fbd3c).
 
 **Please use one Vanilla Overrider at one time!**
@@ -38,13 +38,15 @@ This Overrider uses the Traffic Type Spain Font. Can be found [here](https://www
 ##  Enjoy &amp; Share Your Feedback!</LongDescription>
   <Thumbnail Value="Properties/Thumbnail.png" />
   <ForumLink Value="https://forum.paradoxplaza.com/forum/threads/spanish-vanilla-sign-overrider-we-module.1886761/" />
-  <ModVersion Value="1.0.0" />
+  <ModVersion Value="1.0.1" />
   <GameVersion Value="1.*" />
-  <ChangeLog>Initial Release</ChangeLog>
+  <ChangeLog>## Added NA Theme Support</ChangeLog>
   <Tag Value="Code Mod" />
   <Screenshot Value="Screenshots\Screenshot_1.jpg" />
   <Screenshot Value="Screenshots\Screenshot_2.jpg" />
   <Screenshot Value="Screenshots\Screenshot_3.jpg" />
   <Dependency Id="92908" ModVersion="" DisplayName="Write Everywhere" />
   <ExternalLink Type="github" Url="https://github.com/UnMaestro/Maestros-CS2-SpanishOverrider" />
+  <ExternalLink Type="discord" Url="https://discord.com/channels/1024242828114673724/1446097301775843488" />
+  <ExternalLink Type="paypal" Url="https://www.paypal.com/paypalme/pas1800" />
 </Publish>

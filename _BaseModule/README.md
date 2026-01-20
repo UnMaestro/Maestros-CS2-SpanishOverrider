@@ -1,5 +1,5 @@
 # Spanish Vanilla Theme Overrider 
-Hallo and Hello. This is a Vanilla Theme Overrider that turns Vanilla Signs, Roadmarkings Decals to Spanish ones.
+Hallo and Hello. This is a Vanilla Theme Overrider that turns Vanilla **EU** and **NA** Signs, Roadmarkings and Decals to Spanish ones.
 This Overrider uses the Traffic Type Spain Font. Can be found [here](https://www.onlinewebfonts.com/download/f820971323ed634d5ef50513e34fbd3c).
 
 **Please use one Vanilla Overrider at one time!**
